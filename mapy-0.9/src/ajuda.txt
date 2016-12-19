@@ -1,0 +1,12 @@
+cadastro.............chama os cadastros
+consulta.............chama as consultas
+find.................pesquisa por codigo
+delete...............deletar um cadastro
+alterar..............altera um cadastro
+retornar.............volta ao anterior???
+menu.................chama o menu principal
+clear................limpa a tela
+exit.................sai do sistema
+help.................ajuda do sistema
+sobre................mostra informações do programa
+grid.................mostra apenas o codigo e o valor

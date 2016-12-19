@@ -1,0 +1,12 @@
+MAP 2.0 - Minha Agenda em Python
+Outubro de 2011
+CRÉDITOS
+Rodrigo Attique Santana
+rodrigoatique@gmail.com
+
+NOTAS DE LANÇAMENTO
+
+	Adicionado mais funções
+	Mudança na estrutura do codigo
+	Facilidade nas pesquisas
+	Correção de BUGs
